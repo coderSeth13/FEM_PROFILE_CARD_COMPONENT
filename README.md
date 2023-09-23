@@ -6,7 +6,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 #### Project links
 
-- Solution URL:
+- Solution URL: https://github.com/coderSeth13/FEM_PROFILE_CARD_COMPONENT.git
 - Live Site URL:
 
 #### Social links
@@ -15,3 +15,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Github: https://github.com/coderSeth13?tab=repositories
 
 ### Screenshot
+![Screenshot 2023-09-23 at 06-38-36 Screenshot](https://github.com/coderSeth13/FEM_PROFILE_CARD_COMPONENT/assets/145410639/7eb6b689-3c4f-4a03-b369-7728d7be22c7)
+
